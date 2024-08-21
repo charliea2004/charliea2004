@@ -1,5 +1,6 @@
-## Hi there 👋
+Hey, I'm Charlie 👋
 
+I'm an undergraduate physics student and a machine learning enthusiast. Hopefully, some cool physics and machine learning-related things will start appearing here soon...
 <!--
 **charliea2004/charliea2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
